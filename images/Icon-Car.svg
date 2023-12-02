@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon-Car</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Car" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Car-Icon" transform="translate(0.000000, 17.000000)">
+            <path d="M9,12 L60,12" id="Stroke-1" stroke="#000000" stroke-width="4"></path>
+            <g id="Group-12" stroke="#000000" stroke-width="4">
+                <path d="M59.2157715,44.3926688 L67,44.3926688 L67,19.5767853 L59.8973233,14.7591567 L53.4329963,2 L15.5637845,2 L9.09955301,14.7589682 L2,19.5765316 L2,44.3926688 L9.77698068,44.3926688 L9.77054231,38 L59.2093332,38 L59.2157715,44.3926688 Z" id="Stroke-2"></path>
+                <path d="M59,12.2048889 L67.4775645,10" id="Stroke-4"></path>
+                <path d="M9.47451613,12.2048889 L1,10" id="Stroke-6"></path>
+                <path d="M11.4238774,38 L6.2782,38" id="Stroke-8"></path>
+                <path d="M57.4436306,38 L62.6746629,38" id="Stroke-10"></path>
+            </g>
+            <polygon id="Fill-13" fill="#000000" points="55 23.5123786 55.8680778 28 69 22.124099 67.3207184 18"></polygon>
+            <polygon id="Fill-14" fill="#000000" points="49.119797 24 20.8832487 24 20 28 50 28"></polygon>
+            <polygon id="Fill-15" fill="#000000" points="1 22.1331658 14.1291291 28 15 23.5056533 2.68768769 18"></polygon>
+        </g>
+    </g>
+</svg>

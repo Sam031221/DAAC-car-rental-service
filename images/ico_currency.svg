@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/24x24/ico_currency</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.83772234,8 L17.5065609,3.77705381 L19.618034,8 L22,8 L22,20 L2,20 L2,8 L4.83772234,8 Z M11.1622777,8 L17.381966,8 L16.4934391,6.22294619 L11.1622777,8 Z M9.09280173,10 L4,10 L4,18 L9.09257148,18 C8.42034287,16.9055565 8,15.4745591 8,14 C8,12.5256474 8.42045307,11.0945516 9.09280173,10 Z M14.9071002,10 C15.5795004,11.0945581 16,12.5256597 16,14 C16,15.4745468 15.5796107,16.9055501 14.9073305,18 L20,18 L20,10 L14.9071002,10 Z M14,14 C14,11.8720764 12.8054792,10 11.9999,10 C11.1943838,10 10,11.8720238 10,14 C10,16.1286453 11.1941226,18 11.9999,18 C12.8057404,18 14,16.1285927 14,14 Z M7,13 L7,15 L5,15 L5,13 L7,13 Z M19,13 L19,15 L17,15 L17,13 L19,13 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/24x24/ico_currency" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#FF5F00" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>
